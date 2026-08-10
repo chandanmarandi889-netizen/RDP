@@ -1,4 +1,4 @@
-name: RDP
+run-name: Chandan
 
 on:
   workflow_dispatch:
